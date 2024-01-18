@@ -1,5 +1,5 @@
 # Kaspersky-Lab-Course-PDF
-This is a text containing Kaspersky official website's malware analysis training course, including experimental projects and course plan.
+This is a text containing Kaspersky official website's malware analysis training course, including experimental projects and course plan.The official training website is:https://xtraining.kaspersky.com/#all-courses，all courses are excellent for Analyst。
 
 ## theme
 
@@ -18,3 +18,4 @@ This is a text containing Kaspersky official website's malware analysis training
 ## **Hunt APTs with Yara** **like a GReAT ninja**
 
 ![image-20240118175832582](https://githubwiki.oss-cn-shanghai.aliyuncs.com/img/typroa/image-20240118175832582.png)
+
